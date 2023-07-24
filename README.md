@@ -1,17 +1,15 @@
 # MICROSOFT-STUDIO-PROJECT
 # INTRODUCTION
-Microsoft is a multinational technology company that was founded on April 4, 1975, by Bill Gates and Paul Allen. It is one of the world's largest and most influential technology corporations. Headquartered in Redmond, Washington, USA.
-
-The company's primary focus is on developing, manufacturing, licensing, and supporting software products and services. Microsoft is best known for its operating system, Microsoft Windows, which is used by a vast majority of personal computers worldwide.
 
 Microsoft, witnessing the success of major companies producing original video content, seeks to venture into the movie industry by establishing a new movie studio. However, lacking experience in film production, they have entrusted us with the task of exploring the most successful film types at the box office. Our mission is to delve into the datasets from Box Office Mojo, IMDB, Rotten Tomatoes, TheMovieDB, and The Numbers to extract essential insights. These findings will serve as actionable recommendations for the head of Microsoft's new movie studio, aiding them in deciding which types of films to create for maximum impact and commercial success.
 
-# OBJECTIVES
+# PROJECT OBJECTIVES
 
-1. Understand the film industry
-2. Explore genre ratings, popularity and runtime
-3. Analyse the profitability of the production of sequels
-4. Select seasoned crew members per genre
+1. Conduct in-depth study of film industry's landscape, trends, and success factors.
+2. Analyze genre data for insights into audience preferences and commercial viability.
+3. Evaluate profitability of film sequels, identifying success factors and risks.
+4. Develop crew selection strategy based on genres' impact on project success.
+
 
 # Understand the film industry
 
